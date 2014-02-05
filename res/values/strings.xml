@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Demo MFD Receiver</string>
+    <string name="guidance">Guidance</string>
+    <string name="distance">Distance</string>
+    <string name="remaining_time">Remaining time</string>
+    <string name="total_distance">Total distance</string>
+    <string name="remaining_distance">Remaining distance</string>
+    <string name="total_time">Total time</string>
+   
+</resources>
